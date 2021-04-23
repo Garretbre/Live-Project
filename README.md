@@ -1,2 +1,3 @@
 # Live-Project
-2 week live project 
+C# and .Net 2 week live project 
+
