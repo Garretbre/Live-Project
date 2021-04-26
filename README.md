@@ -1,6 +1,8 @@
 # Live-Project
 C# and .Net- 2 week live project 
 
+I received a story to change the reponsiveness of specific images. Using the inspect feature on the internet browser I was able to find where in the CSS code to change the varying sizes of screen. 
+
 ~~~/*Adding CSS for Theatre Vertigo About page*/
 .aboutPage-Card {
     display: inline-flex;
