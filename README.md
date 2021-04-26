@@ -1,7 +1,7 @@
 # Live-Project
 C# and .Net- 2 week live project 
 
-/*Adding CSS for Theatre Vertigo About page*/
+~~~/*Adding CSS for Theatre Vertigo About page*/
 .aboutPage-Card {
     display: inline-flex;
     flex-wrap: wrap;
@@ -86,3 +86,4 @@ View
     </div>
 </div>
 </div>
+~~~
